@@ -17,9 +17,9 @@
 |  7 | 24-09-2025  | 04  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route  | [Modul 07]() | [Program](https://github.com/250605110073-commits/MODUL-7) |
 |  8 | 24-09-2025  | 04  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  | [Modul 08]() | [Program](https://github.com/250605110073-commits/MODUL-8) |
 |  9 | 01-10-2025  | 05  | StatefulWidget  | [Modul 09]() | [Program](https://github.com/250605110073-commits/MODUL-9) |
-|  10 | 08-10-2025  | 06  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | [Modul 10]() | [Program](https://github.com/250605110073-commits/MODUL-10) |
-|  11 | 15-10-2025  | 07  | Manajemen State dengan GetX  | [Modul 11]() | [Program](https://github.com/250605110073-commits/MODUL-11) |
-|  11 | 25-10-2025  | 08  | Ujian Tengah Seemester  | [UTS]() | [Program]() |
-|  12 | 05-11-2025  | 09  | Akses Lokasi dengan GPS di Flutter  | [Modul 12]() | [Program](https://github.com/250605110073-commits/MODUL-12) |
-|  13 | 19-11-2025  | 10  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API  | [Modul 13]() | [Program](https://github.com/250605110073-commits/MODUL-13) |
+|  10 | 08-10-2025  | 06  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | [Modul 10](https://drive.google.com/file/d/1dtNMNsjWSCkBgz3saw6CWIjNZ2gRvpl1/view?usp=drive_link) | [Program](https://github.com/250605110073-commits/MODUL-10) |
+|  11 | 15-10-2025  | 07  | Manajemen State dengan GetX  | [Modul 11](https://drive.google.com/file/d/1oOpPuZ07bIoCTtWN8CNVCRFV8hSY-uKq/view?usp=drive_link) | [Program](https://github.com/250605110073-commits/MODUL-11) |
+|  11 | 25-10-2025  | 08  | Ujian Tengah Seemester  | [UTS](https://drive.google.com/file/d/110nQQIen7JQCy3572tt7OYYuWLTCmwyL/view?usp=drive_link) | [Program](https://github.com/250605110073-commits/SOUND-SONG) |
+|  12 | 05-11-2025  | 09  | Akses Lokasi dengan GPS di Flutter  | [Modul 12](https://drive.google.com/file/d/1bKas0BIH6Xj0jpv46e3qspgN9zdYiDJL/view?usp=drive_link) | [Program](https://github.com/250605110073-commits/MODUL-12) |
+|  13 | 19-11-2025  | 10  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API  | [Modul 13](https://drive.google.com/file/d/18M8NhcsVdhtYdA72twlHqKwoz_G-oell/view?usp=drive_link) | [Program](https://github.com/250605110073-commits/MODUL-13) |
 |  14 | 11-12-2025  | 11  | Ujian Akhir Semester  | [UAS]() | [Program]() |
