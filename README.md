@@ -6,7 +6,7 @@
 - **NIM**: 250605110073
 - **Kelas**: B
 
-| No  | Tgl  | Praktikum ke  | Topik  | Laporan | Repository |
+| No  | Tgl  | Pertemuan ke  | Topik  | Laporan | Repository |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
 |  1 | 03-09-2025  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Modul 01]() | [Program]() |
 |  2 | 03-09-2025  | 01  | Widget Row dan Column  | [Modul 02]() | [Program]() |
