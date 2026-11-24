@@ -18,7 +18,7 @@
 |  8 | 24-09-2025  | 04  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  | [Modul 08]() | [Program](https://github.com/250605110073-commits/MODUL-8) |
 |  9 | 01-10-2025  | 05  | StatefulWidget  | [Modul 09]() | [Program](https://github.com/250605110073-commits/MODUL-9) |
 |  10 | 08-10-2025  | 06  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | [Modul 10](https://drive.google.com/file/d/1tGQ6SFx_5pw-NxXaXzk_KNlKrjDWSlPy/view?usp=drive_link) | [Program](https://github.com/250605110073-commits/MODUL-10) |
-|  11 | 15-10-2025  | 07  | Manajemen State dengan GetX  | [Modul 11](https://drive.google.com/file/d/1HAza04qjSrjIRaUXecmH4GKNImvULkjf/view?usp=drive_link) | [Program](https://github.com/250605110073-commits/MODUL-11) |
+|  11 | 15-10-2025  | 07  | Manajemen State dengan GetX  | [Modul 11](https://drive.google.com/file/d/1ThifHz-RsTvm_OOkfaQiXi1-rPWO-GHC/view?usp=drive_link) | [Program](https://github.com/250605110073-commits/MODUL-11) |
 |  12 | 05-11-2025  | 09  | Akses Lokasi dengan GPS di Flutter  | [Modul 12](https://drive.google.com/file/d/1HAza04qjSrjIRaUXecmH4GKNImvULkjf/view?usp=drive_link) | [Program](https://github.com/250605110073-commits/MODUL-12) |
 |  13 | 19-11-2025  | 10  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API  | [Modul 13](https://drive.google.com/file/d/1yNSPV0R50FLmvweDweiWakj7CgRoHyIX/view?usp=drive_link) | [Program](https://github.com/250605110073-commits/MODUL-13) |
 |  11 | 25-10-2025  |  | Ujian Tengah Semester  | [UTS](https://drive.google.com/file/d/1pb9ICugecjxH3pIWmimHtrCBQa53dmO9/view?usp=drive_link) | [Program](https://github.com/250605110073-commits/SOUND-SONG) |
